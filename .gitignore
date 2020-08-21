@@ -1,0 +1,15 @@
+*.jar
+*.class
+.clj-kondo/.cache
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+.dir-locals.el
+.cpcache/
+.DS_Store
